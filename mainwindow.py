@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat May  4 20:34:01 2019
+Created on Sat May  4 20:34:01 2023
 
-@author: celal
+@author: seho
 """
 import sys
 from PyQt5 import QtWidgets,QtGui,QtCore
@@ -16,7 +16,7 @@ class MainWindow(QtWidgets.QWidget):
         #Anasayfa yapısı
         self.second_window=QtWidgets.QStackedWidget()
         self.setStyleSheet("background: white;")
-        self.setWindowTitle("Celal Akçelik Bitirme Tezi")
+        self.setWindowTitle("Deep Based @info seyhmus")
         self.setWindowIcon(QtGui.QIcon('iimages/igulogo.jpg'))
         self.setMinimumSize(1200,900)
         self.setMaximumSize(1200,900)

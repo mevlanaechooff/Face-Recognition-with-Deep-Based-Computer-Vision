@@ -2,7 +2,7 @@
 """
 Created on Sat May  5 02:08:23 2019
 
-@author: celal
+@author: celal & seho
 """
 from PyQt5.QtGui import QImage
 from PyQt5 import QtWidgets,QtGui,QtCore

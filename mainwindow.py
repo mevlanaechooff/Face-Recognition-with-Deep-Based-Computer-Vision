@@ -2,7 +2,7 @@
 """
 Created on Sat May  4 20:34:01 2023
 
-@author: seho
+@author: noah
 """
 import sys
 from PyQt5 import QtWidgets,QtGui,QtCore

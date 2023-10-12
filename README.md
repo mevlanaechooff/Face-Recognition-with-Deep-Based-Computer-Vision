@@ -18,9 +18,9 @@ pip install opencv-python
 PyQt5
 pip install PyQt5
 SYS
-Python programlama dili kurduğunuzda otomatik olarak sys kütüphaneside yükler.
+Python programlama dili kurduğunuzda otomatik olarak sys kütüphanesi de yükler.
 Numpy
-Python programlama dili kurduğunuzda otomatik olarak numpy kütüphaneside yükler.
+Python programlama dili kurduğunuzda otomatik olarak numpy kütüphanesi de yükler.
 
 # Proje Çalıştığında Açılan Sayfalar
 mainwindow.py dosyasını çalıştırdığınızda anasayfa açılıyor.
